@@ -21,3 +21,11 @@ Return on Equity = Net Profit (from continuing operations) ÷ Shareholder's Equi
 
 The ROE for Infosys is: 28% = US$2.8b ÷ US$9.7b (Based on the trailing twelve months to June 2021).
 The 'return' refers to a company's earnings over the last year. Another way to think of that is that for every ₹1 worth of equity, the company was able to earn ₹0.28 in profit. At the present moment (Sep 2021), ROE for TCS is 38.1%. Depending on how much of these profits the company reinvests or "retains", and how effectively it does so, we are then able to assess a company’s earnings growth potential. Generally speaking, other things being equal, firms with a high return on equity and profit retention, have a higher growth rate than firms that don’t share these attributes. Firstly, Infosys has a significantly high ROE in comparison with the average ROE reported by the industry of 13%. Despite this, Infosys' five year net income growth was quite low averaging at only 3.5%. This is interesting as the high returns should mean that the company has the ability to generate high growth but for some reason, it hasn't been able to do so.
+
+### EBIT & PBIT
+Earnings Before Interests and Taxes is a measure of a firm’s net income before interest and tax expenses. he larger a company’s EBIT value, the more profitable the company is likely to be. EBIT is calculated by subtracting expenses, usually the cost of goods sold, as well as selling and administrative expenses, from revenues.
+
+Profit Before Interests and Taxes on the other hand on the other hand, is the money left after all expenses are paid. Most businesses use their revenue to pay their expenses; the remainder after all incurred manufacturing or delivery costs is the profit. PBIT measures an enterprise’s profitability by subtracting operating expenses from profit, while excluding tax and interest costs.
+
+EBIT = Operating revenue – cost of goods sold – operating expenses
+PBIT = Net profit + interest + taxes
