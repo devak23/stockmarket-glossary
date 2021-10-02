@@ -29,3 +29,10 @@ Profit Before Interests and Taxes on the other hand on the other hand, is the mo
 
 EBIT = Operating revenue – cost of goods sold – operating expenses
 PBIT = Net profit + interest + taxes
+
+### Right's issue
+Right issue is one way through which companies raise additional capital. It is an offer by a company to its existing shareholders to buy additional shares of the firm at a discounted price. It provides the shareholders a chance to increase their holdings in the firm. However, it is not mandatory for the shareholders to participate in a rights issue. They can choose to exercise the option of not buying any extra shares. The rights issues are also used by companies to raise funds by offering a number of shares at a price lower than the current market price for a certain period of time.
+
+ Recently, the telecom major Bharti Airtel came out with a ₹21,000 crore rights issue which would open on October 5. This fundraising is mainly to take on by its rivals in the telecom market. The issue size is 39.22 crore shares and the price for the rights issue shares will be ₹535 per fully paid-up equity share, including face value of ₹5 and premium of ₹530 per equity share, the press release stated. The stock is currently trading around ₹726 per share on the BSE. As per the release, a shareholder can buy 1 rights issue share for every 14 shares he/she holds as per record date which is set on September 28. All shareholders who own shares of the firm before the ex-date, which is determined by the firm, are eligible for the rights issue shares. 
+
+ When announcing a rgihts issue the company also informs the shareholders regarding a record date. It is the cut-off date set by the company. India follows a T+2 rolling system, which means the ex-date is 2 days before the record date. An investor, if he/she wants to be eligible for the bonus issue must buy shares before the ex date. any one who buys the stock on the ex-date will not be eligible for this.
