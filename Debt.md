@@ -1,0 +1,21 @@
+Legendary fund manager Li Lu (who Charlie Munger backed) once said, 'The biggest investment risk is not the volatility of prices, but whether you will suffer a permanent loss of capital.' It's only natural to consider a company's balance sheet when you examine how risky it is, since debt is often involved when a business collapses. As with many other companies Bharti Airtel Limited (NSE:BHARTIARTL) makes use of debt. But the real question is whether this debt is making the company risky.
+
+## When Is Debt Dangerous?
+Debt and other liabilities become risky for a business when it cannot easily fulfill those obligations, either with free cash flow or by raising capital at an attractive price. If things get really bad, the lenders can take control of the business. While that is not too common, we often do see indebted companies permanently diluting shareholders because lenders force them to raise capital at a distressed price. Having said that, the most common situation is where a company manages its debt reasonably well - and to its own advantage. The first thing to do when considering how much debt a business uses is to look at its cash and debt together.
+
+## What Is Bharti Airtel's Net Debt?
+As of June 2021 Bharti Airtel had ₹1.36t of debt, an increase on ₹1.15t, over one year. However, because it has a cash reserve of ₹327.4b, its net debt is less, at about ₹1.03t.
+
+## A Look At Bharti Airtel's Liabilities
+Zooming in on the latest balance sheet data, we can see that Bharti Airtel had liabilities of ₹1.10t due within 12 months and liabilities of ₹1.64t due beyond that. On the other hand, it had cash of ₹327.4b and ₹47.7b worth of receivables due within a year. So it has liabilities totalling ₹2.36t more than its cash and near-term receivables, combined.
+
+This is a mountain of leverage even relative to its gargantuan market capitalization of ₹3.22t. Should its lenders demand that it shore up the balance sheet, shareholders would likely face severe dilution.
+
+We measure a company's debt load relative to its earnings power by looking at its net debt divided by its earnings before interest, tax, depreciation, and amortization (EBITDA) and by calculating how easily its earnings before interest and tax (EBIT) cover its interest expense (interest cover). The advantage of this approach is that we take into account both the absolute quantum of debt (with net debt to EBITDA) and the actual interest expenses associated with that debt (with its interest cover ratio).
+
+While Bharti Airtel has a quite reasonable net debt to EBITDA multiple of 2.1, its interest cover seems weak, at 1.2. In large part that's it has so much depreciation and amortisation. These charges may be non-cash, so they could be excluded when it comes to paying down debt. But the accounting charges are there for a reason -- some assets are seen to be losing value. In any case, it's safe to say the company has meaningful debt. Importantly, Bharti Airtel grew its EBIT by 75% over the last twelve months, and that growth will make it easier to handle its debt. There's no doubt that we learn most about debt from the balance sheet. But it is future earnings, more than anything, that will determine Bharti Airtel's ability to maintain a healthy balance sheet going forward. 
+
+But our final consideration is also important, because a company cannot pay debt with paper profits; it needs cold hard cash. So the logical step is to look at the proportion of that EBIT that is matched by actual free cash flow. Looking at the most recent three years, Bharti Airtel recorded free cash flow of 25% of its EBIT, which is weaker than we'd expect. That's not great, when it comes to paying down debt.
+
+## Our View
+Bharti Airtel's interest cover and level of total liabilities definitely weigh on it, in our esteem. But its EBIT growth rate tells a very different story, and suggests some resilience. Looking at all the angles mentioned above, it does seem to us that Bharti Airtel is a somewhat risky investment as a result of its debt. That's not necessarily a bad thing, since leverage can boost returns on equity, but it is something to be aware of. There's no doubt that we learn most about debt from the balance sheet. But ultimately, every company can contain risks that exist outside of the balance sheet
