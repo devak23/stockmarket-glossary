@@ -11,7 +11,7 @@ Thus, it is important to take note of entities with higher percentage of pledged
 
 Pledging for loans taken at the promoter level or as primary collaterals are at higher risk of getting invoked quickly in case of margin calls not being met. In this series, we attempt to find out few of the companies with higher percentage of pledged shares out of the NSE 500 companies.
 
-![alt text](https://github.com/devak23/stockmarket-glossary/blob/main/images/Promoter Holding.jpeg?raw=true)
+![alt text](https://github.com/devak23/stockmarket-glossary/blob/main/images/PromoterHolding.jpeg?raw=true)
 
 ### The Findings
 Welcome news, first. The data from primeinfobase.com reveals that out of NSE 500 companies, those with pledged promoter shares have come down from 90 as on September 30, 2020 to 82 as on August 31, 2021. This could be on the back of deleveraging by the promoters/ companies.
