@@ -26,7 +26,7 @@ Assets can be compared on the basis of their means and standard deviation by dra
 
 ![alt text](https://github.com/devak23/stockmarket-glossary/blob/main/images/InvestInOnlyOneAsset.png?raw=true)
 
-The X returns the returns (mean) and Y represents the risk (standard deviation). 
+The X represents the returns (mean) and Y represents the risk (standard deviation). 
 - Asset A is a risk free asset like a cash/govt bonds
 - Asset B has higher mean and higher SD than asset A
 - Asset C has higher mean and higher SD than asset B
