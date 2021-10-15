@@ -55,11 +55,11 @@ This formula of the portfolio expected return is quite easy and intuitive. Howev
 
 Sp = sqrt[sqr(Wa) x sqr(Sa) + 2 x Wa x Sa x Wb x Sb x R + sqr(Wb) x sqr(Sb)]
 
-Wa, Wb = investment in A and B respectively
-Sa, Sb = SD of A and B respectively
-R = correlation between returns of A and returns of B
+- Wa, Wb = investment in A and B respectively
+- Sa, Sb = SD of A and B respectively
+- R = correlation between returns of A and returns of B. 
 
-Correlations are between -1 and 1. They are a measure of the degree to which the returns on to assets fluctuate together. 
+Correlations are between -1 and 1. They are a measure of the degree to which the returns on to assets fluctuate together.
 
 - When the correlation = 1, the returns are perfectly correlated. When one goes up, you know exactly by how much the other will go up.
 
