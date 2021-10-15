@@ -1,27 +1,27 @@
-### Risk and Return
+## RISK AND RETURN
 
-## Definitions
+### Definitions
 - The return and risk of an asset are commonly measured in terms of the mean and standard deviation (SD).
 - The total return represents income + capital gains or losses
 - The mean is the return one expects to obtain on an average
 - The SD is a measure of the volatility of a return. Its commonly associated to the risk of an asset
 
-## Why SD = Risk ?
+### Why SD = Risk ?
 - SD is a measure of how much an investment fluctuates from its expected return
 - When a price moves widly, SD is high
 - Low fluctuations in price generally signals low SD.
 Thus SD helps determine the market volatility or the spread of asset price from their average price thereby serving as a good proxy to for "risk". So low fluctuations signal low risk and high fluctuations signal high risk.
 
-## Relation between Return and SD
+### Relation between Return and SD
 For a Bell Shape distribution curve signifying the return, one will actually experience price fall within one SD either side of the mean about 68% of the times. Within 2 SD's 95% of the time and with 3 SD's 99.7% of the time
 
 ![alt text](https://github.com/devak23/stockmarket-glossary/blob/main/images/Return_SD.png?raw=true)
 
-## Historical Returns Vs Future Returns
+### Historical Returns Vs Future Returns
 The mean and SD of a return for a given asset can be computed from historical returns. In that case, however, they are merely "summary descriptors" of the past performance and may or may not relfect the probability distribution of future returns.
 Investors ofcourse need to estimate the mean and SD of the future returns (which is impossible in practise unless you are Dr. Strange). This is one of the main limitations of Markowitz portfolio theory.
 
-## Asset Comparison
+### Asset Comparison
 Assets can be compared on the basis of their means and standard deviation by drawing a simple diagram as shown below.
 
 ![alt text](https://github.com/devak23/stockmarket-glossary/blob/main/images/InvestInOnlyOneAsset.png?raw=true)
@@ -39,17 +39,17 @@ If you can invest in one of the 4 assets which one would you pick? The ideal cho
 - A risk neutral investor would prefer C and a risk averse investor would prefer A.
 - Asset B is probably best for somone who is not overly risk averse and also not quite risk neutral.
 
-## Portfolio Standard Deviation (Diversification)
+### Portfolio Standard Deviation (Diversification)
 Suppose we can invest our money in a portfolio of just two assets, asset A and B, both of which are risky. Let Wa be the fraction invested in asset A and Wb be the fraction invested in asset B, where Wa + Wb = 1 (or 100%)
 
 The portfolio return is just the weighted average of Wa & Wb as follows:
 
 Ep = Wa x Ea + Wb x Eb
-Wa = investment in A
-Wb = investment in B
-Ea = expected return of A
-Eb = expected return of B
-Wa + Wb = 1
+- Wa = investment in A
+- Wb = investment in B
+- Ea = expected return of A
+- Eb = expected return of B
+- Wa + Wb = 1
 
 This formula of the portfolio expected return is quite easy and intuitive. However, the formula for the portfolio standard deviation is more complicated. It is given as follows:
 
