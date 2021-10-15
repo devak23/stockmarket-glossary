@@ -39,3 +39,12 @@ Right issue is one way through which companies raise additional capital. It is a
 
  ### Margin Intraday Squareoff (MIS)
  Margin Intraday Square Off, also popularly known as MIS order, is a facility wherein you get to take higher intraday trading position/s using cash and holdings (stock) as margin. All such positions need to be compulsory closed before the close of market hours on the day itself.
+
+ ### AD Ratio or A/D ratio or ADR
+ The advance-decline ratio (ADR) is a popular market-breadth indicator used in technical analysis. It compares the number of stocks that closed higher against the number of stocks that closed lower than their previous day's closing prices. On a standalone basis, the ADR may reveal whether the market is overbought or oversold. Looking at the trend of ADR helps to determine if the market is bullish or bearish
+
+ ADR = No of shares that advanced/ No of shares declined.
+
+ Technical analysis strategies deems directional change essential to success. The ADR is an effective value to help traders quickly get a feel for potential trends or the reversal of existing trends. Investors can compare the moving average of the ADR to the performance of a index to see whether a minority of companies is driving overall market performance.
+
+ The Wall Street Journal puts together the number of stocks that advanced and declined each day for major indices. For example, for Dec. 31, 2020, the number of stocks in the New York Stock Exchange index that advanced was 1,881 and the number that declined was 1,268. Thus, the advance-decline ratio for the NYSE was 1.48. For context, the week prior there were 1,894 advancers versus 1,212 decliners for the NYSE, yielding an advance-decline ratio of 1.56
