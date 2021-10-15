@@ -38,3 +38,51 @@ If you can invest in one of the 4 assets which one would you pick? The ideal cho
 - Which one is the dominated asset between A,B and C? That requires knowledge of risk.
 - A risk neutral investor would prefer C and a risk averse investor would prefer A.
 - Asset B is probably best for somone who is not overly risk averse and also not quite risk neutral.
+
+## Portfolio Standard Deviation (Diversification)
+Suppose we can invest our money in a portfolio of just two assets, asset A and B, both of which are risky. Let Wa be the fraction invested in asset A and Wb be the fraction invested in asset B, where Wa + Wb = 1 (or 100%)
+
+The portfolio return is just the weighted average of Wa & Wb as follows:
+
+Ep = Wa x Ea + Wb x Eb
+Wa = investment in A
+Wb = investment in B
+Ea = expected return of A
+Eb = expected return of B
+Wa + Wb = 1
+
+This formula of the portfolio expected return is quite easy and intuitive. However, the formula for the portfolio standard deviation is more complicated. It is given as follows:
+
+Sp = sqrt[sqr(Wa) x sqr(Sa) + 2 x Wa x Sa x Wb x Sb x R + sqr(Wb) x sqr(Sb)]
+
+Wa, Wb = investment in A and B respectively
+Sa, Sb = SD of A and B respectively
+R = correlation between returns of A and returns of B
+
+Correlations are between -1 and 1. They are a measure of the degree to which the returns on to assets fluctuate together. 
+
+- When the correlation = 1, the returns are perfectly correlated. When one goes up, you know exactly by how much the other will go up.
+
+- When the correlation = -1, the returns are perfectly negatively correlated. When one goes up, you know exactly by how much the other will go down.
+
+- When the correlations = 0, knowledge of what happened to an asset gives no information about the other.
+
+
+The square root formula is the most general one and encompass all these special cases we have so far discussed. For example, when R = 1, the assets are perfectly correlated:
+
+Sp 	= sqrt[sqr(Wa)sqr(Sa) + 2 WaSaWbSb + sqr(Wb)sqr(Sb)]
+	= sqrt[sqr(WaSa + WbSb)]
+	= WaSa + WbSb
+
+For risky assets that are not perfectly correlated, the correlation is less than one and there is a non-linear or curve relationship between the SD of the portfolio and the investment in the assets.
+
+![alt text](https://github.com/devak23/stockmarket-glossary/blob/main/images/ImperfectCorrelation.png?raw=true)
+
+Moreover, the SD of the portfolio is always less than the weighted average of the SD of asset A and B, as we can see in the figure. This fact is of great significance in lies at the heart of the portfolio theory.
+
+It means if one holds, say, equal amounts of risky assets that are not perfectly correlated, the portfolio expected return will be the average of the respective returns of the assets in the portfolio. However, the portfolio SD will be less than the average of the SD of the assets in the portfolio.
+
+The power of prior statement is best demonstrated by imagining two assets with the same expected returns and the same SD of return in an imperfect correlation.
+
+By holding both assets in a portfolio, one obtains the same expected return as either one of them, but a SD that is no worse than any of them individually. Thus, diversification leads to a reduction in risk without any sacrifice in expected return.
+
