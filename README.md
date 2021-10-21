@@ -48,3 +48,14 @@ Right issue is one way through which companies raise additional capital. It is a
  Technical analysis strategies deems directional change essential to success. The ADR is an effective value to help traders quickly get a feel for potential trends or the reversal of existing trends. Investors can compare the moving average of the ADR to the performance of a index to see whether a minority of companies is driving overall market performance.
 
  The Wall Street Journal puts together the number of stocks that advanced and declined each day for major indices. For example, for Dec. 31, 2020, the number of stocks in the New York Stock Exchange index that advanced was 1,881 and the number that declined was 1,268. Thus, the advance-decline ratio for the NYSE was 1.48. For context, the week prior there were 1,894 advancers versus 1,212 decliners for the NYSE, yielding an advance-decline ratio of 1.56
+
+ ### Debtor days
+In simplest terms, debtor days measure how quickly a business gets paid. The longer it takes for a company to collect, the greater the number of debtors days. Debtor days can also be referred to as Debtor collection period. The variables used in the debtor days calculation are accounts receivable and annual credit sales. 
+
+The equation for calculating debtor days is:
+
+(Average Accounts Receivable/Annual Credit Sales) x 365 days
+
+The debtor days ratio at its core, is an indication of the company’s liquidity.A rise in the number of average debtor days could signal that the company may be giving too much credit to their customers; the clients probably are not creditworthy and/or there is an issue with your payment collection process. With less cash on hand the company may not be able to invest in its company’s growth or meet its own payment obligations (such as loan repayments and staff salaries)
+
+Conversely, a diminishing number of debtor days should always be considered against historical context. Many businesses are affected by seasonality and report fluctuations in their cash flow according to the time of year.
