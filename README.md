@@ -64,14 +64,21 @@ Conversely, a diminishing number of debtor days should always be considered agai
 Price to book ratio or PB ratio determines the valuation of the company with respect to the strength of its balance sheet.
 
 Price/Book value = Market cap / Total Book Value
+
 OR
+
 Price/Book value = Latest Stock price / Book value per share
 
 where:
+
 Market cap = Latest Stock price x # of shares of the company
+
 Total Book value = Total Assets less Intangible assets less liabilities
+
 OR
+
 Total Book value = Total Shareholder's Fund (excluding the Minority Interest) - Debit balance in P&L Account if any
+
 Book value per share = Total Book Value / # of shares
 
 Price to book value varies by industry. In general, industries which heavily depend on capital equipment/ fixed assets and inventory such as manufacturing, commodities processing, trading etc. have much of their market value determined by the amount of assets involved in the business. Therefore, the PB ratio for these industries will be lower. For this reason, all financial lending businesses (where capital is the main product) such as banks, housing finance institutions, gold loan companies, micro finance institutions are valued based on the PB value multiple.
@@ -81,5 +88,7 @@ On the other hand, for service industries that depend less on assets to generate
 
 ### Float
 Float refers to the shares a company has issued to the public that are available for investors to trade. 
+
 Float = outstanding shares - restricted stock
+
 A restricted stock is the one that is under some sort of sales restriction. Restricted stock can include stock held by insiders but cannot be traded because they are in a lock-up period following an IPO. A company's float indicates how many shares are actually available to be bought and sold by general investing public.
