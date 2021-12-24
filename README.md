@@ -15,7 +15,7 @@ Stock option plan is an award that gives you the opportunity to purchase a certa
 The Earnings Before Interest Taxes Depreciation and Amortization (or EBITDA) is a measure of the operating profitability of a company. The EBITDA has 2 main advantages: it is very easy to compute and it is a good proxy of the company's operating cash flow. A positive EBITDA means that the company is profitable at an operating level: it sells its products higher than they cost to make. At the opposite, a negative EBITDA means that the company is facing some operational difficulties or that it is poorly managed.
 
 ### ROE
-Return on Equity or ROE is a test of how effectively a company is growing its value and managing investors’ money. In simpler terms, it measures the profitability of a company in relation to shareholder's equity.
+Return on Equity or ROE is a test of how effectively a company is growing its value and managing investors’ money. In simpler terms, it measures the profitability of a company in relation to shareholder's equity. Simply put, for 1 Rupee investment you make in the company, ROE tells you how much profit the company is making.
 
 Return on Equity = Net Profit (from continuing operations) ÷ Shareholder's Equity 
 
