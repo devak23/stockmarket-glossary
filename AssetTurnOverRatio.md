@@ -1,9 +1,6 @@
 # Asset Turn Over Ratio
 
-Asset turnover ratio represents the efficiency with which a company is able to use investments in its assets. It is defined as a ratio of sales and assets. Effectively, an asset turnover ratio intimates an investor the amount of sales that a company can generate from an investment of ₹1 in its assets.
-
-
-A company with a high asset turnover indicates can generate a higher amount of sales from the same investment in its assets than a company with low asset turnover. 
+Asset turnover ratio represents the efficiency with which a company is able to use investments in its assets. It is defined as a ratio of sales and assets. Effectively, its a measure of how much sales does the company generate with every incremental ₹1 investment.
 
 Asset turnover is also a representative of capital-intensiveness of the business of the company. It means that the companies with a low asset turnover would need to invest a higher amount of money in their assets to generate sales. Whereas the companies with a higher asset turnover would need to invest a lower amount of money in their assets to generate sales. 
 
@@ -90,6 +87,14 @@ However, when potential competitors look at the high capital investment needs of
 
 As a result, an investor would notice that despite a low net fixed asset turnover (i.e. high capital intensive business), Wonderla Holidays Ltd has managed to stay debt-free because of high entry barriers for competition created by high capital investment needs of the amusement park business. The creation of a strong brand in the minds of consumers has also played a key role in this barrier to entry for new competitors.
 
+## Summary
+
+- Asset Turnover ratio represents the operating effiency of a company. It indicates how much sales can a company makes for every ₹1 investment made in assets.
+- Ideally a high asset turnover ratio is preferrable that requires low input capital and resulting in high free cash flow. However in sucha  business, the company may face intense pressure from unorganized sector
+- Nevertheless if the company creates strong barriers like established product brands, strong distribution network, then such companies earn high profit margin
+- A company with low asset turnover ratio is a very capital intensive business and risks of falling into debt trap. In these cases, investor needs to assess if the high capital requirement needs can be used as a moat by creating a strong brand in the minds of the customers
+- Deeper analysis of NFAT ratio is required if the trend of NFAT is going down. It might be a sign where the company is losing the efficiency of usage of its fixed assets.
+- Whenever any company starts a new manufacturing plant, then the new plant usually takes some time to reach optimal utilization levels. Many times, this period may range from 2-3 years. During this period, the company would tend to have a lower net fixed asset turnover ratio. Once the new plant reaches optimal capacity utilization levels, then the NFAT ratio would also tend to reach the historical levels.
 
 
 <sub>Courtesy: Dr. Vijay Malik: https://www.drvijaymalik.com</sub>
