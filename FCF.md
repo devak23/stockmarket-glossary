@@ -72,14 +72,48 @@ An investor should compare the SSGR of the company with its current sales growth
 
     All the above steps would provide funds from business activities and the company would not have to rely on external sources like debt or equity dilution to get funds to maintain its current growth rate.
 
-    Therefore, the company with higher SSGR can increase their sales growth rate in normal times and maintain current sales growth rate during tough times without leveraging their balance sheet by taking on debt
+    Therefore, the company with higher SSGR can increase their sales growth rate in normal times and maintain current sales growth rate during tough times without leveraging their balance sheet by taking on debt.
 
 - If the SSGR less than current sales growth rate, the investor would notice that such companies are already growing more than their business potential. Such companies usually rely on raising debt or diluting their equity to generate funds needed for investments to generate sales growth.
 
     These companies had to consistently raise debt/dilute equity to raise funds for investments to generate growth, as their operational business was not able to generate the required amount of funds.
 
-- If the SSGR is equal to current sales growth rate,
+- If the SSGR is equal to current sales growth rate, it means that the company is already using its business potential to the maximum and the company would find it hard to maintain its current growth rate in tough business scenarios characterized by industry-wide declining profitability. Similarly, the company would have to raise additional funds by way of debt or equity for funding, in case the company decides to increase its growth further.
 
-- Positive Free Cash Flow (FCF) after meeting entire capex
+
+## [1] Positive FCF (after meeting entire capex)
+
+Honeywell Automation
+
+![alt text](https://github.com/devak23/stockmarket-glossary/blob/main/images/Honeywell-Automation-FCF.png?raw=true)
+
+Over the last 10 years (FY2010-2020), Honeywell Automation India Ltd has generated cash flow from operations (CFO) of ₹1,501 cr. whereas it needed to invest only ₹294 cr. in its business and thereby leaving ₹1,207 cr. in the hand of the company as discretionary cash to reward its shareholders. No wonder that the company could provide dividends to the tune of ₹198 cr. over the last 10 years and still increase its cash & investments by more than ₹1,000 cr over the last 10 years.
+
+In addition, the company is virtually debt-free. The liability of ₹81 cr shown in FY2020 is due to changes in the accounting treatment of leased assets where now, the lease liabilities are shown as debt.
+
+Honeywell Automation India Ltd presents an example of a very attractive business, which offers 80% of the cash generated to its owners as free cash without compromising on its future growth. This represents a huge amount of margin of safety built into the business.
+
+## [1] Negative FCF
+
+Filatex India Ltd
+
+![alt text](https://github.com/devak23/stockmarket-glossary/blob/main/images/Filatex-FCF.png?raw=true)
+
+Filatex India Ltd, an Indian manufacturer of polyester, nylon & polypropylene multifilament yarn has been acting as a cash guzzler for its shareholders.
+
+Over the last 10 years (FY2011-20), Filatex India Ltd has generated cash flow from operations of ₹791 cr. However, its business required it to invest ₹1,298 cr in the company, thereby eliminating any chance of free cash flow. The company had a negative free cash flow of about ₹507 cr over FY2011-2020.
+
+Filatex India Ltd had to raise debt of about ₹640 cr to fund its capital expenditure requirements. Total debt of the company increased from ₹81 cr. in FY2011 to ₹720 cr. in FY2020. In addition, it raised about ₹100 cr from equity issuances in the last year so that it could make the investments needed for its sales growth aspirations.
+
+
+
+Therefore, an investor can see that positive FCF is an important parameter for investment and the fact that the higher the FCF as a proportion of CFO, the higher the margin of safety.
+
+
+## Should we reject companies with a negative Free Cash Flow straightaway?
+
+From the above discussion, an investor would notice that the companies with a positive FCF come across as the ones with a good and stable financial position. However, it does not mean that an investor should reject any company with a negative FCF straightaway even if other parameters show that it has a fundamentally sound business model. The answer is, No!
+
+This is because when an investor looks at the formula of FCF (= CFO – Capital Expenditure), then she would notice that instead of a weak CFO, a large capital expenditure (Capex) may be the reason for negative FCF. Moreover, a large capex may be a result of excellent investment opportunities available for the company in its business. As a result, the company may be striving to grow its business fast to capitalize on the available opportunities.
 
 <sub>Courtesy: Dr. Vijay Malik: https://www.drvijaymalik.com</sub>
