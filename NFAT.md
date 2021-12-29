@@ -21,7 +21,7 @@ We prefer to use Net Fixed Asset Turnover Ratio in our analysis because it indic
 
 We calculate Net Fixed Asset Turnover Ratio (NFAT) as:
 
-NFAT = Sales / Average of Net fixed assets at the start of the year and at the end of the year
+    NFAT = Sales / Average of Net fixed assets at the start of the year and at the end of the year
 
 In their analysis, an investor would come across companies having a wide range of net fixed asset turnover. They would find companies with net fixed asset turnover of less than one as well as more than 10. A Net Fixed Assets Turnover Ratio of 1 indicates that every incremental investment of ₹1 by a company in its plants and machinery would increase its sales by ₹1.
 

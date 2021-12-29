@@ -44,7 +44,8 @@ Suppose we can invest our money in a portfolio of just two assets, asset A and B
 
 The portfolio return is just the weighted average of Wa & Wb as follows:
 
-Ep = Wa x Ea + Wb x Eb
+	Ep = Wa x Ea + Wb x Eb
+
 - Wa = investment in A
 - Wb = investment in B
 - Ea = expected return of A
@@ -53,7 +54,7 @@ Ep = Wa x Ea + Wb x Eb
 
 This formula of the portfolio expected return is quite easy and intuitive. However, the formula for the portfolio standard deviation is more complicated. It is given as follows:
 
-Sp = sqrt[sqr(Wa) x sqr(Sa) + 2 x Wa x Sa x Wb x Sb x R + sqr(Wb) x sqr(Sb)]
+	Sp = sqrt[sqr(Wa) x sqr(Sa) + 2 x Wa x Sa x Wb x Sb x R + sqr(Wb) x sqr(Sb)]
 
 - Wa, Wb = investment in A and B respectively
 - Sa, Sb = SD of A and B respectively
@@ -70,9 +71,9 @@ Correlations are between -1 and 1. They are a measure of the degree to which the
 
 The square root formula is the most general one and encompass all these special cases we have so far discussed. For example, when R = 1, the assets are perfectly correlated:
 
-Sp 	= sqrt[sqr(Wa)sqr(Sa) + 2 WaSaWbSb + sqr(Wb)sqr(Sb)]
-	= sqrt[sqr(WaSa + WbSb)]
-	= WaSa + WbSb
+	Sp 	= sqrt[sqr(Wa)sqr(Sa) + 2 WaSaWbSb + sqr(Wb)sqr(Sb)]
+		= sqrt[sqr(WaSa + WbSb)]
+		= WaSa + WbSb
 
 For risky assets that are not perfectly correlated, the correlation is less than one and there is a non-linear or curve relationship between the SD of the portfolio and the investment in the assets.
 

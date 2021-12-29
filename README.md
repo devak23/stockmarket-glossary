@@ -17,7 +17,7 @@ The Earnings Before Interest Taxes Depreciation and Amortization (or EBITDA) is 
 ### ROE
 Return on Equity or ROE is a test of how effectively a company is growing its value and managing investors’ money. In simpler terms, it measures the profitability of a company in relation to shareholder's equity. Simply put, for 1 Rupee investment you make in the company, ROE tells you how much profit the company is making.
 
-Return on Equity = Net Profit (from continuing operations) ÷ Shareholder's Equity 
+    Return on Equity = Net Profit (from continuing operations) ÷ Shareholder's Equity 
 
 The ROE for Infosys is: 28% = US$2.8b ÷ US$9.7b (Based on the trailing twelve months to June 2021).
 The 'return' refers to a company's earnings over the last year. Another way to think of that is that for every ₹1 worth of equity, the company was able to earn ₹0.28 in profit. At the present moment (Sep 2021), ROE for TCS is 38.1%. Depending on how much of these profits the company reinvests or "retains", and how effectively it does so, we are then able to assess a company’s earnings growth potential. Generally speaking, other things being equal, firms with a high return on equity and profit retention, have a higher growth rate than firms that don’t share these attributes. Firstly, Infosys has a significantly high ROE in comparison with the average ROE reported by the industry of 13%. Despite this, Infosys' five year net income growth was quite low averaging at only 3.5%. This is interesting as the high returns should mean that the company has the ability to generate high growth but for some reason, it hasn't been able to do so.
@@ -27,8 +27,8 @@ Earnings Before Interests and Taxes is a measure of a firm’s net income before
 
 Profit Before Interests and Taxes on the other hand on the other hand, is the money left after all expenses are paid. Most businesses use their revenue to pay their expenses; the remainder after all incurred manufacturing or delivery costs is the profit. PBIT measures an enterprise’s profitability by subtracting operating expenses from profit, while excluding tax and interest costs.
 
-EBIT = Operating revenue – cost of goods sold – operating expenses
-PBIT = Net profit + interest + taxes
+    EBIT = Operating revenue – cost of goods sold – operating expenses
+    PBIT = Net profit + interest + taxes
 
 ### Right's issue
 Right issue is one way through which companies raise additional capital. It is an offer by a company to its existing shareholders to buy additional shares of the firm at a discounted price. It provides the shareholders a chance to increase their holdings in the firm. However, it is not mandatory for the shareholders to participate in a rights issue. They can choose to exercise the option of not buying any extra shares. The rights issues are also used by companies to raise funds by offering a number of shares at a price lower than the current market price for a certain period of time.
@@ -43,7 +43,7 @@ Right issue is one way through which companies raise additional capital. It is a
  ### AD Ratio or A/D ratio or ADR
  The advance-decline ratio (ADR) is a popular market-breadth indicator used in technical analysis. It compares the number of stocks that closed higher against the number of stocks that closed lower than their previous day's closing prices. On a standalone basis, the ADR may reveal whether the market is overbought or oversold. Looking at the trend of ADR helps to determine if the market is bullish or bearish
 
- ADR = No of shares that advanced/ No of shares declined.
+    ADR = No of shares that advanced/ No of shares declined.
 
  Technical analysis strategies deems directional change essential to success. The ADR is an effective value to help traders quickly get a feel for potential trends or the reversal of existing trends. Investors can compare the moving average of the ADR to the performance of a index to see whether a minority of companies is driving overall market performance.
 
@@ -54,7 +54,7 @@ In simplest terms, debtor days measure how quickly a business gets paid. The lon
 
 The equation for calculating debtor days is:
 
-(Average Accounts Receivable/Annual Credit Sales) x 365 days
+    (Average Accounts Receivable/Annual Credit Sales) x 365 days
 
 The debtor days ratio at its core, is an indication of the company’s liquidity.A rise in the number of average debtor days could signal that the company may be giving too much credit to their customers; the clients probably are not creditworthy and/or there is an issue with your payment collection process. With less cash on hand the company may not be able to invest in its company’s growth or meet its own payment obligations (such as loan repayments and staff salaries)
 
@@ -63,23 +63,21 @@ Conversely, a diminishing number of debtor days should always be considered agai
 ### PB Ratio
 Price to book ratio or PB ratio determines the valuation of the company with respect to the strength of its balance sheet.
 
-Price/Book value = Market cap / Total Book Value
+    Price/Book value = Market cap / Total Book Value
 
 OR
 
-Price/Book value = Latest Stock price / Book value per share
+    Price/Book value = Latest Stock price / Book value per share
 
 where:
-
-Market cap = Latest Stock price x # of shares of the company
-
-Total Book value = Total Assets less Intangible assets less liabilities
+- Market cap = Latest Stock price x # of shares of the company
+- Total Book value = Total Assets less Intangible assets less liabilities
 
 OR
 
-Total Book value = Total Shareholder's Fund (excluding the Minority Interest) - Debit balance in P&L Account if any
+    Total Book value = Total Shareholder's Fund (excluding the Minority Interest) - Debit balance in P&L Account if any
 
-Book value per share = Total Book Value / # of shares
+    Book value per share = Total Book Value / # of shares
 
 Price to book value varies by industry. In general, industries which heavily depend on capital equipment/ fixed assets and inventory such as manufacturing, commodities processing, trading etc. have much of their market value determined by the amount of assets involved in the business. Therefore, the PB ratio for these industries will be lower. For this reason, all financial lending businesses (where capital is the main product) such as banks, housing finance institutions, gold loan companies, micro finance institutions are valued based on the PB value multiple.
 
