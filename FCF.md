@@ -81,7 +81,7 @@ An investor should compare the SSGR of the company with its current sales growth
 - If the SSGR is equal to current sales growth rate, it means that the company is already using its business potential to the maximum and the company would find it hard to maintain its current growth rate in tough business scenarios characterized by industry-wide declining profitability. Similarly, the company would have to raise additional funds by way of debt or equity for funding, in case the company decides to increase its growth further.
 
 
-## [1] Positive FCF (after meeting entire capex)
+### [1] Positive FCF (after meeting entire capex)
 
 Honeywell Automation
 
@@ -93,7 +93,7 @@ In addition, the company is virtually debt-free. The liability of ₹81 cr shown
 
 Honeywell Automation India Ltd presents an example of a very attractive business, which offers 80% of the cash generated to its owners as free cash without compromising on its future growth. This represents a huge amount of margin of safety built into the business.
 
-## [1] Negative FCF
+### [2] Negative FCF
 
 Filatex India Ltd
 
