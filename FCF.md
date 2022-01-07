@@ -39,7 +39,7 @@ Graham in his book “The Intelligent Investor”, first published in 1949, advi
 
 In addition to Graham, Dr. Vijay has found out 2 more parameters that will serve as a good indicator for Margin of Safety:
 
-### A) Margin of Safety in the purchase price: 
+### A) Margin of Safety in the purchase price:
 Earnings Yield (EY) is calculated as the inverse of Price to Earnings (P/E) ratio i.e. E/P ratio. It is calculated by dividing the earnings per share (EPS) with the current market price (CMP).
 
 EY provides an idea about the earning/returns that the stock would produce for every INR invested by the buyer in it.
